@@ -1,0 +1,19 @@
+body {
+  background: #111;
+  color: #fff;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+canvas {
+  background: #000;
+  display: block;
+  margin: 20px auto;
+  border: 2px solid #fff;
+  cursor: pointer;
+}
+
+.title {
+  letter-spacing: 0.2em;
+  text-shadow: 0 0 8px #00eaff;
+}
